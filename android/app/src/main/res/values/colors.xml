@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gradientstart">#E4EFE7</color>
+    <color name="gradientend">#8AB6D6</color>
+
+    <color name="primary_dark">#E4EFE7</color>
+    <color name="secondary_dark">#8AB6D6</color>
+
+    <color name="translucent">#00000031</color>
+</resources>
